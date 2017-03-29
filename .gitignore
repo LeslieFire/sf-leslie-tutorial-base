@@ -4,5 +4,8 @@
 /.idea/
 !.gitignore
 
+/data/
+/arabic/
+
 
 *.docx
