@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <property>
+        <name>zk.url</name>
+        <value>hadoop5:2181,hadoop9:2181,admincenter1:2181,rocket2:2181,rocket3:2181</value>
+    </property>
+
+    <!--<property>-->
+        <!--<name>zk.url</name>-->
+        <!--<value>devrhino1:2181,devrhino2:2181,devrhino3:2181</value>-->
+    <!--</property>-->
+
+    <property>
+        <name>http.max.retry.count</name>
+        <value>5</value>
+    </property>
+
+</configuration>

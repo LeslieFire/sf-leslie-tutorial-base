@@ -1,0 +1,8 @@
+*iml
+/target/
+*log*
+/.idea/
+!.gitignore
+
+
+*.docx
